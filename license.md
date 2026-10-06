@@ -118,4 +118,4 @@ Le bouton vert dans la section Démarrage rapide.
 
 ---
 
-*golden-maple-838 · Mis à jour 2026-10-05 · Partagé sous licence MIT*
+*golden-maple-838 · Mis à jour 2026-10-06 · Partagé sous licence MIT*
